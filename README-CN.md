@@ -1,6 +1,11 @@
 # Battle Judge Backend
 
-![](https://img.shields.io/badge/Python-3.6.8-blue)![](https://img.shields.io/badge/Django-3.1.5-blue)![](https://img.shields.io/badge/Django%20rest%20framework-3.12.5-blue)![](https://img.shields.io/badge/Channels-3.0.3-blue)![](https://img.shields.io/badge/Celery-5.0.5-blue)![](https://img.shields.io/badge/license-MIT-green)
+![](https://img.shields.io/badge/Python-3.6.8-blue)
+![](https://img.shields.io/badge/Django-3.1.5-blue)
+![](https://img.shields.io/badge/Django%20rest%20framework-3.12.5-blue)
+![](https://img.shields.io/badge/Channels-3.0.3-blue)
+![](https://img.shields.io/badge/Celery-5.0.5-blue)
+![](https://img.shields.io/badge/license-MIT-green)
 
 [English](./README.md)
 
